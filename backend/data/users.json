@@ -1,0 +1,10 @@
+[
+  {
+    "id": "ca5b2a14-ca13-49b4-a5f4-8d6545da1a76",
+    "email": "admin@gaushalafresh.com",
+    "password": "$2b$10$gvrRMraQrQu5y6HWTL3vUOxC5DXc7L7JgkTqPzzdWk4XsSlmId3pm",
+    "name": "Admin",
+    "role": "admin",
+    "createdAt": "2025-12-24T06:34:46.330Z"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "46edd685-f3c8-4cc6-a6d8-9c49184ea86f",
+    "name": "Fresh Cow's Milk",
+    "slug": "fresh-cows-milk",
+    "tagline": "Pure milk from happy cows",
+    "categoryId": "81d31d83-0caa-4df4-a7d3-aa17fbcc4bcb",
+    "shortDescription": "Farm-fresh cow's milk from our grass-fed, free-range cows.",
+    "longDescription": "Collected fresh every morning and delivered within 24 hours. No preservatives, no additives, just pure wholesome milk the way nature intended.",
+    "variants": [
+      {
+        "id": "346d73e7-34d9-4f01-a6b8-83dd0d9e8c8c",
+        "size": "500ml",
+        "price": 35,
+        "unit": "pouch",
+        "stockStatus": "in_stock"
+      },
+      {
+        "id": "515fd840-b480-4aae-b19b-4b553cbd7c17",
+        "size": "1 Liter",
+        "price": 65,
+        "unit": "pouch",
+        "stockStatus": "in_stock"
+      },
+      {
+        "id": "f9e2561b-3e35-48f0-a994-f9c89d71e229",
+        "size": "2 Liter",
+        "price": 125,
+        "unit": "pack",
+        "stockStatus": "in_stock"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=800"
+    ],
+    "amazonLink": "https://amazon.in",
+    "benefits": [
+      "Farm Fresh",
+      "No Preservatives",
+      "Rich in Calcium"
+    ],
+    "isFeatured": true,
+    "isPublished": false,
+    "stockStatus": "in_stock",
+    "rating": 4.9,
+    "reviewCount": 2340,
+    "createdAt": "2025-12-24T06:34:46.331Z",
+    "category": {
+      "id": "81d31d83-0caa-4df4-a7d3-aa17fbcc4bcb",
+      "name": "Milk",
+      "slug": "milk",
+      "sortOrder": 1
+    },
+    "updatedAt": "2025-12-26T15:52:21.956Z"
+  },
+  {
+    "id": "e717c4c6-a1dc-4489-b287-7215dc0c5306",
+    "name": "Pure Desi Ghee",
+    "slug": "pure-desi-ghee",
+    "tagline": "The golden essence of tradition",
+    "categoryId": "aff2fc1c-2c50-41a2-9499-c3500f161def",
+    "shortDescription": "Made using the traditional Bilona method.",
+    "longDescription": "Slow-churned to perfection with the rich aroma of grandmother's kitchen.",
+    "variants": [
+      {
+        "id": "73acf6df-5c50-415c-bfad-c04328310c29",
+        "size": "200g",
+        "price": 250,
+        "unit": "jar",
+        "stockStatus": "in_stock"
+      },
+      {
+        "id": "acf07d4e-6816-4a9b-ba9d-6f1db42e0a8b",
+        "size": "500g",
+        "price": 550,
+        "unit": "jar",
+        "stockStatus": "in_stock"
+      },
+      {
+        "id": "4d3f5ea0-e9cb-4327-a49b-1a8a84aedcd1",
+        "size": "1kg",
+        "price": 999,
+        "unit": "jar",
+        "stockStatus": "in_stock"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800"
+    ],
+    "amazonLink": "https://amazon.in",
+    "benefits": [
+      "Bilona Method",
+      "High Smoke Point",
+      "Omega-3 Rich"
+    ],
+    "isFeatured": true,
+    "isPublished": true,
+    "stockStatus": "in_stock",
+    "rating": 4.95,
+    "reviewCount": 1856,
+    "createdAt": "2025-12-24T06:34:46.331Z",
+    "category": {
+      "id": "aff2fc1c-2c50-41a2-9499-c3500f161def",
+      "name": "Ghee",
+      "slug": "ghee",
+      "sortOrder": 2
+    },
+    "updatedAt": "2025-12-26T15:52:25.329Z"
+  },
+  {
+    "id": "2b3996a3-c6bd-4bc5-9755-e00a6fd2cce4",
+    "name": "Fresh Dahi",
+    "slug": "fresh-dahi",
+    "tagline": "Set curd with cultured taste",
+    "categoryId": "7e314e93-a90d-4b37-8f0e-d3b5faeff93d",
+    "shortDescription": "Thick, creamy dahi made from fresh cow's milk.",
+    "longDescription": "Perfect consistency, mildly tangy, and incredibly smooth.",
+    "variants": [
+      {
+        "id": "5d0dd79f-19f0-46b4-a3bf-866f656b779a",
+        "size": "200g",
+        "price": 30,
+        "unit": "cup",
+        "stockStatus": "in_stock"
+      },
+      {
+        "id": "faa8b9fb-9bd0-4ffe-b4ed-172f55effe04",
+        "size": "400g",
+        "price": 55,
+        "unit": "cup",
+        "stockStatus": "in_stock"
+      },
+      {
+        "id": "12f4ad9c-8266-49a8-ac3b-eac5d18f48fc",
+        "size": "1kg",
+        "price": 120,
+        "unit": "pack",
+        "stockStatus": "in_stock"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800"
+    ],
+    "amazonLink": "https://amazon.in",
+    "benefits": [
+      "Probiotics",
+      "Aids Digestion",
+      "No Preservatives"
+    ],
+    "isFeatured": false,
+    "isPublished": false,
+    "stockStatus": "in_stock",
+    "rating": 4.8,
+    "reviewCount": 1234,
+    "createdAt": "2025-12-24T06:34:46.331Z",
+    "category": {
+      "id": "7e314e93-a90d-4b37-8f0e-d3b5faeff93d",
+      "name": "Dahi",
+      "slug": "dahi",
+      "sortOrder": 3
+    },
+    "updatedAt": "2025-12-25T09:11:10.970Z"
+  },
+  {
+    "id": "fd7f430a-1d94-4b9b-bb3b-8528222959c6",
+    "name": "LASSI DA",
+    "tagline": "Pure lassi",
+    "categoryId": "e09e7bd9-9205-4e00-bd5d-b52545790f4b",
+    "shortDescription": "Lassi made with love",
+    "longDescription": "Usage - 2 times a day",
+    "variants": [
+      {
+        "id": "19fa2772-6aac-4ef7-99aa-ee8e12a70bcb",
+        "size": "500 ml",
+        "price": 50,
+        "unit": "1",
+        "stockStatus": "in_stock"
+      },
+      {
+        "id": "fd4db0e4-168f-4f36-8fd6-26b9b6192da3",
+        "size": "250 ml",
+        "price": 25,
+        "unit": "1",
+        "stockStatus": "in_stock"
+      }
+    ],
+    "images": [
+      "http://localhost:3001/uploads/1766763703891-2000fe8d-528c-4fb9-8a24-6478b843ebcb.png",
+      "http://localhost:3001/uploads/1766763712492-a5d0163a-1969-4f58-a076-cb30874d43c0.png"
+    ],
+    "amazonLink": "https://amazon.in",
+    "benefits": [
+      ""
+    ],
+    "isFeatured": true,
+    "isPublished": true,
+    "stockStatus": "in_stock",
+    "slug": "lassi-da",
+    "createdAt": "2025-12-26T15:42:20.328Z",
+    "updatedAt": "2025-12-26T16:12:46.363Z",
+    "category": {
+      "id": "e09e7bd9-9205-4e00-bd5d-b52545790f4b",
+      "name": "Lassi",
+      "slug": "lassi",
+      "sortOrder": 4
+    }
+  }
+]

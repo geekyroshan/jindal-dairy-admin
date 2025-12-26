@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ad4d5b6d-5370-4644-b9e0-48473f69c5ab",
+    "name": "Priya Sharma",
+    "location": "Mumbai",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200",
+    "quote": "The taste of GauShala Fresh milk takes me back to my grandmother's village.",
+    "product": "Fresh Milk",
+    "rating": 5,
+    "isFeatured": true,
+    "isPublished": true,
+    "createdAt": "2025-12-24T06:34:46.331Z"
+  },
+  {
+    "id": "6b9a88d2-0fcb-4c3f-8b0e-0a745fb63b1e",
+    "name": "Rajesh Patel",
+    "location": "Ahmedabad",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+    "quote": "The ghee is absolutely incredible. The aroma is heavenly!",
+    "product": "Pure Desi Ghee",
+    "rating": 5,
+    "isFeatured": true,
+    "isPublished": true,
+    "createdAt": "2025-12-24T06:34:46.331Z"
+  },
+  {
+    "id": "5f62f130-c1d7-4b21-9ddf-e15796c46be7",
+    "name": "Arjun Kumar",
+    "location": "Punjan",
+    "image": "",
+    "quote": "Best Ghee in the market",
+    "product": "Fresh Milk",
+    "rating": 4,
+    "isFeatured": false,
+    "isPublished": true,
+    "createdAt": "2025-12-25T08:18:18.031Z"
+  }
+]

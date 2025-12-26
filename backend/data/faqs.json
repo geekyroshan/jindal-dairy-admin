@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1dfa5f32-0940-47be-afbe-0ba45717235f",
+    "question": "How fresh is your milk?",
+    "answer": "Our milk is collected fresh every morning and delivered within 24 hours.",
+    "category": "products",
+    "sortOrder": 1,
+    "isPublished": true
+  },
+  {
+    "id": "4b903583-8647-46c9-a307-85960eb2ee7c",
+    "question": "Do you deliver to my area?",
+    "answer": "We currently deliver across major cities. Contact us on WhatsApp to check availability.",
+    "category": "delivery",
+    "sortOrder": 2,
+    "isPublished": true
+  }
+]

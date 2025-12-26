@@ -1,0 +1,26 @@
+[
+  {
+    "id": "81d31d83-0caa-4df4-a7d3-aa17fbcc4bcb",
+    "name": "Milk",
+    "slug": "milk",
+    "sortOrder": 1
+  },
+  {
+    "id": "aff2fc1c-2c50-41a2-9499-c3500f161def",
+    "name": "Ghee",
+    "slug": "ghee",
+    "sortOrder": 2
+  },
+  {
+    "id": "7e314e93-a90d-4b37-8f0e-d3b5faeff93d",
+    "name": "Dahi",
+    "slug": "dahi",
+    "sortOrder": 3
+  },
+  {
+    "id": "e09e7bd9-9205-4e00-bd5d-b52545790f4b",
+    "name": "Lassi",
+    "slug": "lassi",
+    "sortOrder": 4
+  }
+]

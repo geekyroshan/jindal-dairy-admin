@@ -1,0 +1,14 @@
+[
+  {
+    "id": "7304f0a3-dd4b-45ef-af6b-cd72f54c4f31",
+    "title": "Farm Fresh, Heart Blessed",
+    "subtitle": "Experience the pure taste of tradition",
+    "backgroundImage": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=2000",
+    "ctaText": "Explore Products",
+    "ctaLink": "/products",
+    "page": "home",
+    "sortOrder": 1,
+    "isActive": true,
+    "createdAt": "2025-12-24T06:34:46.331Z"
+  }
+]
